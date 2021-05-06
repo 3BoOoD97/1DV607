@@ -5,5 +5,5 @@ Type: java -jar Boat Club.jar
 
 
 
-Students Names :
+Student Name :
 Abdalrhman Dabor (ad222uk)
